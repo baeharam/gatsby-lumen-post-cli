@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-lumen-post-generator",
+  "version": "1.0.0",
+  "description": "Fancy post generator for gatsby-lumen-starter",
+  "main": "./lib/index.js",
+  "license": "MIT",
+  "keywords": [
+    "cli",
+    "gatsby",
+    "gatsby-lumen-starter"
+  ],
+  "bin": {
+    "lumen-post": "bin/index.js"
+  },
+  "author": "hisfedev@gmail.com",
+  "dependencies": {
+    "date-fns": "^2.9.0",
+    "fs-extra": "^8.1.0",
+    "gray-matter": "^4.0.2",
+    "inquirer": "^7.0.3",
+    "inquirer-autocomplete-prompt": "^1.0.1",
+    "recursive-readdir": "^2.2.2",
+    "signale": "^1.4.0"
+  }
+}
