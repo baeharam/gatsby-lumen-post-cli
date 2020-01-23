@@ -1,6 +1,6 @@
 {
   "name": "gatsby-lumen-post-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Fancy post generator CLI for gatsby-lumen-starter",
   "main": "./lib/index.js",
   "license": "MIT",
