@@ -34,9 +34,19 @@ lumen-post
 
 * **Features**
   * **Category** : choose existing one or add new category
+  
   * **Title** : input title
+  
   * **Tags** : choose existing ones and add new tags
+  
+    * When input multiple tags, **delimiter is space(" ")** . So, you have to input like below.
+  
+    * ```bash
+      tag1 tag2
+      ```
+  
   * **Description** : input description
+  
   * **Date** , **slug** , **template** are automatically inserted and **draft** is set as `false`
 
 When you finishes above works, post markdown file is created in `content/posts/[category]` 
