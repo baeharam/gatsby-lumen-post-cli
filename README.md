@@ -41,6 +41,8 @@ lumen-post
 
 When you finishes above works, post markdown file is created in `content/posts/[category]` 
 
+<img src='./gif/demo.gif'>
+
 ## LICENSE
 
 MIT
