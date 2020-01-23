@@ -12,6 +12,10 @@
   "bin": {
     "lumen-post": "./bin/lumen-post.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsby-lumen-post-cli"
+  },
   "author": "hisfedev@gmail.com",
   "dependencies": {
     "date-fns": "^2.9.0",

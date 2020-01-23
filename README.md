@@ -1,4 +1,4 @@
-# gatsby-lumen-post-generator
+# gatsby-lumen-post-cli
 
 ## Why?
 
@@ -11,13 +11,13 @@
 * **npm**
 
 ```bash
-npm install gatsby-lumen-post-generator
+npm install gatsby-lumen-post-cli
 ```
 
 * **yarn**
 
 ```bash
-yarn add gatsby-lumen-post-generator
+yarn add gatsby-lumen-post-cli
 ```
 
 ## Assumption
