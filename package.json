@@ -10,7 +10,7 @@
     "gatsby-lumen-starter"
   ],
   "bin": {
-    "lumen-post": "bin/index.js"
+    "lumen-post": "./bin/lumen-post.js"
   },
   "author": "hisfedev@gmail.com",
   "dependencies": {
@@ -19,6 +19,7 @@
     "gray-matter": "^4.0.2",
     "inquirer": "^7.0.3",
     "inquirer-autocomplete-prompt": "^1.0.1",
+    "make-dir": "^3.0.0",
     "recursive-readdir": "^2.2.2",
     "signale": "^1.4.0"
   }
