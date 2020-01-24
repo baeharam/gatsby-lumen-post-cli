@@ -4,6 +4,9 @@
   "description": "Fancy post generator CLI for gatsby-lumen-starter",
   "main": "./lib/index.js",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "keywords": [
     "cli",
     "gatsby",
@@ -26,5 +29,9 @@
     "make-dir": "^3.0.0",
     "recursive-readdir": "^2.2.2",
     "signale": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.9.1",
+    "jest": "^25.1.0"
   }
 }
